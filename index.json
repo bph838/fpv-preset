@@ -3,6 +3,7 @@
   "presets": [
     {
       "name": "OSD",
+      "target": "OSD",
       "url": "https://bph838.github.io/fpv-preset/osd.json"
     }    
   ]
