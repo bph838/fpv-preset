@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "presets": [
+    {
+      "name": "OSD",
+      "url": "https://raw.githubusercontent.com/bph838/fpv-preset/refs/heads/main/osd.json"
+    }    
+  ]
+}
