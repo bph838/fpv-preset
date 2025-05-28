@@ -1,9 +1,10 @@
 {
   "version": 1,
+  "name": "Driving my drones FPV Presets",
   "presets": [
     {
-      "name": "OSD",
-      "target": "OSD",
+      "name": "Bens OSD",
+      "target": "osd",
       "url": "https://bph838.github.io/fpv-preset/osd.json"
     }    
   ]
