@@ -1,14 +1,13 @@
-{
-  "version": 1,
-  "name": "Hoops OSD",
-  "author": "Ben Hooper",
-  "category": "osd",
-  "description": "My OSD Base settings",
-  "conditions": {  
-    "min_bf_version": "4.3.0"
-  },
-  "commands": [
-                "set osd_units = BRITISH",                
-                "save"
-  ]
-}
+[
+  {
+    "version": 1,
+    "name": "Hoops OSD",
+    "author": "Ben Hooper",
+    "category": "osd",
+    "description": "My OSD Base settings",
+    "conditions": {
+      "min_bf_version": "4.3.0"
+    },
+    "commands": ["set osd_units = BRITISH", "save"]
+  }
+]
